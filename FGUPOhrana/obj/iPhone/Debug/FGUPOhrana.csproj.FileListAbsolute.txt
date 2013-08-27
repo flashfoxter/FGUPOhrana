@@ -1,0 +1,7 @@
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\bin\iPhone\Debug\top-logo 2.png
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\bin\iPhone\Debug\Icon-72.png
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\bin\iPhone\Debug\btnFGUPRound.png
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\bin\iPhone\Debug\FGUPOhrana.exe
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\bin\iPhone\Debug\FGUPOhrana.pdb
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\obj\iPhone\Debug\FGUPOhrana.exe
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\obj\iPhone\Debug\FGUPOhrana.pdb

@@ -1,0 +1,8 @@
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\bin\iPhoneSimulator\Debug\top-logo 2.png
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\bin\iPhoneSimulator\Debug\Icon-72.png
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\bin\iPhoneSimulator\Debug\btnFGUPRound.png
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\bin\iPhoneSimulator\Debug\FGUPOhrana.exe
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\bin\iPhoneSimulator\Debug\FGUPOhrana.pdb
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\obj\iPhoneSimulator\Debug\FGUPOhrana.csprojResolveAssemblyReference.cache
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\obj\iPhoneSimulator\Debug\FGUPOhrana.exe
+Z:\konstantinlevashkin\Desktop\FGUPOhrana\FGUPOhrana\obj\iPhoneSimulator\Debug\FGUPOhrana.pdb

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FGUPOhrana", "FGUPOhrana\FGUPOhrana.csproj", "{281C6776-E342-4C5B-BDB7-FDBD76E868C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.Debug|iPhone.Build.0 = Debug|iPhone
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.Release|iPhone.ActiveCfg = Release|iPhone
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.Release|iPhone.Build.0 = Release|iPhone
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{281C6776-E342-4C5B-BDB7-FDBD76E868C5}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FGUPOhrana\FGUPOhrana.csproj
+	EndGlobalSection
+EndGlobal
